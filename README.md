@@ -72,4 +72,5 @@ The smart contract removes the need for intermediaries, reducing risk and increa
 
 1. Install Soroban CLI  
    ```bash
-   cargo install --locked soroban-cli
+   cargo install --locked soroban-cli<img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/c9000ef6-ddb6-4c25-92dd-6ff1ae26215c" />
+
