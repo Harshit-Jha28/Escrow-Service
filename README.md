@@ -64,7 +64,6 @@ The smart contract removes the need for intermediaries, reducing risk and increa
 - Testnet: https://stellar.expert/explorer/testnet/tx/be4f57da672108cd6460fde30c23a3b5fb07a9349d9596a6d58ddd919bb11b27
 - Mainnet: https://stellar.expert/explorer/public/contract/XXX  
 
-> Replace CASALBFBPVNR7JS26N34JUYLVOHQ4EFKC3WSCEGWO6CNMMVXPH47GXXW with your actual deployed contract ID
 
 ---
 
@@ -74,3 +73,4 @@ The smart contract removes the need for intermediaries, reducing risk and increa
    ```bash
    cargo install --locked soroban-cli<img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/c9000ef6-ddb6-4c25-92dd-6ff1ae26215c" />
 
+<img width="1920" height="1080" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/ffb7e976-876c-4799-ada2-6abbf7f49882" />
