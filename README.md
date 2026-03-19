@@ -61,7 +61,7 @@ The smart contract removes the need for intermediaries, reducing risk and increa
 
 ## 🌐 Deployed Smart Contract Link
 
-- Testnet: https://stellar.expert/explorer/testnet/contract/XXX  
+- Testnet: https://stellar.expert/explorer/testnet/tx/be4f57da672108cd6460fde30c23a3b5fb07a9349d9596a6d58ddd919bb11b27
 - Mainnet: https://stellar.expert/explorer/public/contract/XXX  
 
 > Replace CASALBFBPVNR7JS26N34JUYLVOHQ4EFKC3WSCEGWO6CNMMVXPH47GXXW with your actual deployed contract ID
